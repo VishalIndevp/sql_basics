@@ -1,5 +1,6 @@
 # Short Some School Data
 
+#my
 ## Project Overview
 
 This project aims to organize and analyze a dataset containing various information related to a school, such as student details, courses, and grades. The goal is to create a simple and efficient SQL database that allows for easy querying and reporting of school data.
